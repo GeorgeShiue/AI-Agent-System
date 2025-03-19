@@ -1,0 +1,173 @@
+================================ Human Message =================================
+
+I am looking for a movie starring Keanu Reeves and the movie is about virtual reality.
+================================== Ai Message ==================================
+Tool Calls:
+  movie_infos_search (call_s1yfEQDVe7nGzE0oR03UDj8b)
+ Call ID: call_s1yfEQDVe7nGzE0oR03UDj8b
+  Args:
+    movie_name: The Matrix
+
+DevTools listening on ws://127.0.0.1:63609/devtools/browser/efcec0e2-f972-4b39-b4d2-c50544f0088e
+================================= Tool Message =================================
+Name: movie_infos_search
+
+
+Movie Title: 駭客任務
+Link: https://www.imdb.com/title/tt0133093/?ref_=fn_all_ttl_1
+Plot: When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+Casts and Characters:
+  Keanu Reeves playing Neo
+  Laurence Fishburne playing Morpheus
+  Carrie-Anne Moss playing Trinity
+  Hugo Weaving playing Agent Smith
+  Gloria Foster playing Oracle
+  Joe Pantoliano playing Cypher
+  Marcus Chong playing Tank
+  Julian Arahanga playing Apoc
+  Matt Doran playing Mouse
+  Belinda McClory playing Switch
+  Anthony Ray Parker playing Dozer
+  Paul Goddard playing Agent Brown
+  Robert Taylor playing Agent Jones
+  David Aston playing Rhineheart
+  Marc Aden Gray playing Choi(as Marc Gray)
+  Ada Nicodemou playing Dujour (White Rabbit Girl)
+  Deni Gordon playing Priestess
+  Rowan Witt playing Spoon Boy
+
+Movie Title: 駭客任務：復活
+Link: https://www.imdb.com/title/tt10838180/?ref_=fn_all_ttl_2
+Plot: Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to ... Read all
+Casts and Characters:
+  Keanu Reeves playing Neo
+  Carrie-Anne Moss playing Trinity
+  Yahya Abdul-Mateen II playing Morpheus
+  Jonathan Groff playing Smith
+  Jessica Henwick playing Bugs
+  Neil Patrick Harris playing The Analyst
+  Jada Pinkett Smith playing Niobe
+  Priyanka Chopra Jonas playing Sati
+  Christina Ricci playing Gwyn de Vere
+  Lambert Wilson playing The Merovingian
+  Andrew Lewis Caldwell playing Jude
+  Toby Onwumere playing Sequoia
+  Max Riemelt playing Sheperd
+  Joshua Grothe playing FunktIøn
+  Brian J. Smith playing Berg
+  Eréndira Ibarra playing Lexy
+  Michael X. Sommers playing Skroce(as Michael X Sommers)
+  L. Trey Wilson playing Hanno
+
+Movie Title: 駭客任務：重裝上陣
+Link: https://www.imdb.com/title/tt0234215/?ref_=fn_all_ttl_3
+Plot: Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces o... Read all
+Casts and Characters:
+  Keanu Reeves playing Neo
+  Laurence Fishburne playing Morpheus
+  Carrie-Anne Moss playing Trinity
+  Hugo Weaving playing Agent Smith
+  Ray Anthony playing Power Station Guard
+  Christine Anu playing Kali
+  Andy Arness playing Police #2
+  Alima Ashton-Sheibu playing Link's Niece
+  Helmut Bakaitis playing The Architect
+  Steve Bastoni playing Soren
+  Don Battee playing Vector(as Don Batte)
+  Monica Bellucci playing Persephone
+  Daniel Bernhardt playing Agent Johnson
+  Valerie Berry playing Priestess
+  Ian Bliss playing Bane
+  Liliana Bogatko playing Old Woman at Zion
+  Michael Budd playing Zion Controller
+  Stoney Burke playing Bike Carrier Driver
+
+Movie Title: 駭客任務完結篇：最後戰役
+Link: https://www.imdb.com/title/tt0242653/?ref_=fn_all_ttl_4
+Plot: The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
+Casts and Characters:
+  Keanu Reeves playing Neo
+  Laurence Fishburne playing Morpheus
+  Carrie-Anne Moss playing Trinity
+  Hugo Weaving playing Agent Smith
+  Mary Alice playing The Oracle
+  Tanveer K. Atwal playing Sati
+  Helmut Bakaitis playing The Architect
+  Kate Beahan playing Coat Check Girl
+  Francine Bell playing Councillor Grace
+  Monica Bellucci playing Persephone
+  Rachel Blackman playing Charra
+  Henry Blasingame playing Deus Ex Machina
+  Ian Bliss playing Bane
+  David Bowers playing Q-Ball Gang Member #1
+  Zeke Castelli playing Operations Officer Mattis
+  Collin Chou playing Seraph
+  Essie Davis playing Maggie
+  Nona Gaye playing Zee
+
+================================== Ai Message ==================================
+Tool Calls:
+  movie_metadata_search (call_1TX2skG0uqWxHBixgCqxmaSS)
+ Call ID: call_1TX2skG0uqWxHBixgCqxmaSS
+  Args:
+    url: https://www.imdb.com/title/tt0133093/?ref_=fn_all_ttl_1
+
+DevTools listening on ws://127.0.0.1:63668/devtools/browser/2db513e5-6529-443b-9477-51ce253d7858
+================================= Tool Message =================================
+Name: movie_metadata_search
+
+
+Movie Title: 駭客任務
+Link: https://www.imdb.com/title/tt0133093/?ref_=fn_all_ttl_1
+Plot: When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+Casts and Characters:
+  Keanu Reeves playing Neo
+  Laurence Fishburne playing Morpheus
+  Carrie-Anne Moss playing Trinity
+  Hugo Weaving playing Agent Smith
+  Gloria Foster playing Oracle
+  Joe Pantoliano playing Cypher
+  Marcus Chong playing Tank
+  Julian Arahanga playing Apoc
+  Matt Doran playing Mouse
+  Belinda McClory playing Switch
+  Anthony Ray Parker playing Dozer
+  Paul Goddard playing Agent Brown
+  Robert Taylor playing Agent Jones
+  David Aston playing Rhineheart
+  Marc Aden Gray playing Choi(as Marc Gray)
+  Ada Nicodemou playing Dujour (White Rabbit Girl)
+  Deni Gordon playing Priestess
+  Rowan Witt playing Spoon Boy
+Directors: Lana Wachowski, Lilly Wachowski,
+Writers: Lilly Wachowski, Lana Wachowski,
+Box Office:
+  Budget: $63,000,000 (estimated)
+  Gross US & Canada: $172,076,928
+  Opening weekend US & Canada: $27,788,331Apr 4, 1999
+  Gross worldwide: $467,841,735
+Rating: 8.7
+Popularity: 181
+
+================================== Ai Message ==================================
+
+The movie you are looking for is **The Matrix**.
+
+### Details:
+- **Plot**: When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth: the life he knows is the elaborate deception of an evil cyber-intelligence.
+- **Casts and Characters**:
+  - Keanu Reeves as Neo
+  - Laurence Fishburne as Morpheus
+  - Carrie-Anne Moss as Trinity
+  - Hugo Weaving as Agent Smith
+  - Additional cast includes Gloria Foster, Joe Pantoliano, and more.
+
+- **Directors**: Lana Wachowski, Lilly Wachowski
+- **Writers**: Lilly Wachowski, Lana Wachowski
+- **Rating**: 8.7/10
+- **Box Office**:
+  - Estimated Budget: $63 million
+  - Gross (US & Canada): $172 million
+  - Gross (Worldwide): $467 million
+
+You can find more information and watch the trailer here: [The Matrix on IMDb](https://www.imdb.com/title/tt0133093/?ref_=fn_all_ttl_1).

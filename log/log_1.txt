@@ -1,0 +1,111 @@
+================================ Human Message =================================
+
+I am looking for a movie that a robot pretending to be a human and trying to assassinate the main character. The movie is the second installment in a series.
+================================== Ai Message ==================================
+Tool Calls:
+  movie_infos_search (call_TVU7ZYOdbNsdpO3M9LW0xLpB)
+ Call ID: call_TVU7ZYOdbNsdpO3M9LW0xLpB
+  Args:
+    movie_name: Terminator 2: Judgment Day
+
+DevTools listening on ws://127.0.0.1:61479/devtools/browser/f3cc0f68-ffd1-4c78-8c01-963bfc5948e9
+================================= Tool Message =================================
+Name: movie_infos_search
+
+
+Movie Title: 魔鬼終結者2
+Link: https://www.imdb.com/title/tt0103064/?ref_=fn_all_ttl_1
+Plot: A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.
+Casts and Characters:
+  Arnold Schwarzenegger playing The Terminator
+  Linda Hamilton playing Sarah Connor
+  Edward Furlong playing John Connor
+  Robert Patrick playing T-1000
+  Earl Boen playing Dr. Silberman
+  Joe Morton playing Miles Dyson
+  S. Epatha Merkerson playing Tarissa Dyson
+  Castulo Guerra playing Enrique Salceda
+  Danny Cooksey playing Tim
+  Jenette Goldstein playing Janelle Voight
+  Xander Berkeley playing Todd Voight
+  Leslie Hamilton Gearren playing Twin Sarah
+  Ken Gibbel playing Douglas
+  Robert Winley playing Cigar Biker
+  Pete Schrum playing Lloyd
+  Shane Wilder playing Trucker
+  Michael Edwards playing Old John Connor
+  Jared Lounsbery playing Kid
+
+Movie Title: The Making of 'Terminator 2: Judgment Day'
+Link: https://www.imdb.com/title/tt0271049/?ref_=fn_all_ttl_3
+Plot: A behind-the-scenes look about the making of 魔鬼終結者2 (1991).
+Casts and Characters:
+
+================================== Ai Message ==================================
+Tool Calls:
+  movie_metadata_search (call_vdZ5VwetpidFc2hjann0dOVI)
+ Call ID: call_vdZ5VwetpidFc2hjann0dOVI
+  Args:
+    url: https://www.imdb.com/title/tt0103064/?ref_=fn_all_ttl_1
+
+DevTools listening on ws://127.0.0.1:61531/devtools/browser/c5d22e38-89c2-45e7-8cdc-9e9bd8f15749
+================================= Tool Message =================================
+Name: movie_metadata_search
+
+
+Movie Title: 魔鬼終結者2
+Link: https://www.imdb.com/title/tt0103064/?ref_=fn_all_ttl_1
+Plot: A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.
+Casts and Characters:
+  Arnold Schwarzenegger playing The Terminator
+  Linda Hamilton playing Sarah Connor
+  Edward Furlong playing John Connor
+  Robert Patrick playing T-1000
+  Earl Boen playing Dr. Silberman
+  Joe Morton playing Miles Dyson
+  S. Epatha Merkerson playing Tarissa Dyson
+  Castulo Guerra playing Enrique Salceda
+  Danny Cooksey playing Tim
+  Jenette Goldstein playing Janelle Voight
+  Xander Berkeley playing Todd Voight
+  Leslie Hamilton Gearren playing Twin Sarah
+  Ken Gibbel playing Douglas
+  Robert Winley playing Cigar Biker
+  Pete Schrum playing Lloyd
+  Shane Wilder playing Trucker
+  Michael Edwards playing Old John Connor
+  Jared Lounsbery playing Kid
+Directors: James Cameron,
+Writers: James Cameron, William Wisher,
+Box Office:
+  Budget: $102,000,000 (estimated)
+  Gross US & Canada: $205,881,154
+  Opening weekend US & Canada: $31,765,506Jul 7, 1991
+  Gross worldwide: $517,778,573
+Rating: 8.6
+Popularity: 375
+
+================================== Ai Message ==================================
+
+The movie you're looking for is **"Terminator 2: Judgment Day"**. In this action-packed sequel, a cyborg, identical to the one who previously failed to kill Sarah Connor, must now protect her ten-year-old son, John Connor, from an advanced and powerful cyborg known as the T-1000.    
+
+### Movie Details:
+- **Title:** Terminator 2: Judgment Day
+- **Plot:** A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from an even more advanced and powerful cyborg.
+- **Director:** James Cameron
+- **Writers:** James Cameron, William Wisher
+- **Rating:** 8.6
+- **Cast:**
+  - Arnold Schwarzenegger as The Terminator
+  - Linda Hamilton as Sarah Connor
+  - Edward Furlong as John Connor
+  - Robert Patrick as T-1000
+  - Linda Hamilton as Sarah Connor
+  - Edward Furlong as John Connor
+  - Robert Patrick as T-1000
+  - Edward Furlong as John Connor
+  - Robert Patrick as T-1000
+  - Robert Patrick as T-1000
+  - Earl Boen as Dr. Silberman
+
+You can find more about the movie and watch it [here](https://www.imdb.com/title/tt0103064/?ref_=fn_all_ttl_1).

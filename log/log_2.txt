@@ -1,0 +1,112 @@
+================================ Human Message =================================
+
+I am looking for a movie that starring Robert Downey Jr., Chris Evans, and Scarlett Johansson.
+================================== Ai Message ==================================
+Tool Calls:
+  movie_infos_search (call_kDwbxYSBzVAVolri52ETPrm9)
+ Call ID: call_kDwbxYSBzVAVolri52ETPrm9
+  Args:
+    movie_name: Avengers: Endgame
+
+DevTools listening on ws://127.0.0.1:63360/devtools/browser/a6356842-9fb3-414f-b042-57e039e676d0
+================================= Tool Message =================================
+Name: movie_infos_search
+
+
+Movie Title: 復仇者聯盟：終局之戰
+Link: https://www.imdb.com/title/tt4154796/?ref_=fn_all_ttl_1
+Plot: After the devastating events of 復仇者聯盟：無限之戰 (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restor... Read all
+Casts and Characters:
+  Robert Downey Jr. playing Tony Stark
+  Chris Evans playing Steve Rogers
+  Mark Ruffalo playing Bruce Banner
+  Chris Hemsworth playing Thor
+  Scarlett Johansson playing Natasha Romanoff
+  Jeremy Renner playing Clint Barton
+  Don Cheadle playing James Rhodes
+  Paul Rudd playing Scott Lang
+  Benedict Cumberbatch playing Doctor Strange
+  Chadwick Boseman playing T'Challa
+  Brie Larson playing Carol Danvers
+  Tom Holland playing Peter Parker
+  Karen Gillan playing Nebula
+  Zoe Saldaña playing Gamora(as Zoe Saldana)
+  Evangeline Lilly playing Hope Van Dyne
+  Tessa Thompson playing Valkyrie
+  Rene Russo playing Frigga
+  Elizabeth Olsen playing Wanda Maximoff
+
+Movie Title: Avengers: Endgame
+Link: https://www.imdb.com/title/tt16103750/?ref_=fn_all_ttl_2
+Plot: Back when there was a box office, Avengers: Endgame became the biggest movie of all time. This was very important to a lot of people for some reason.
+Casts and Characters:
+
+Movie Title: Marvel Studios' Avengers: Endgame LIVE Red Carpet World Premiere
+Link: https://www.imdb.com/title/tt10240638/?ref_=fn_all_ttl_3
+Plot: An exclusive look at what's going down on the red carpet for the world premiere of "Avengers: Endgame" before the big screening.  
+Casts and Characters:
+
+================================== Ai Message ==================================
+Tool Calls:
+  movie_metadata_search (call_Ib0rnNHXX3HypX1k9Xaue6wZ)
+ Call ID: call_Ib0rnNHXX3HypX1k9Xaue6wZ
+  Args:
+    url: https://www.imdb.com/title/tt4154796/?ref_=fn_all_ttl_1
+
+DevTools listening on ws://127.0.0.1:63410/devtools/browser/d9aae5e4-24e8-4478-a738-8959c41a67ac
+================================= Tool Message =================================
+Name: movie_metadata_search
+
+
+Movie Title: 復仇者聯盟：終局之戰
+Link: https://www.imdb.com/title/tt4154796/?ref_=fn_all_ttl_1
+Plot: After the devastating events of 復仇者聯盟：無限之戰 (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restor... Read all
+Casts and Characters:
+  Robert Downey Jr. playing Tony Stark
+  Chris Evans playing Steve Rogers
+  Mark Ruffalo playing Bruce Banner
+  Chris Hemsworth playing Thor
+  Scarlett Johansson playing Natasha Romanoff
+  Jeremy Renner playing Clint Barton
+  Don Cheadle playing James Rhodes
+  Paul Rudd playing Scott Lang
+  Benedict Cumberbatch playing Doctor Strange
+  Chadwick Boseman playing T'Challa
+  Brie Larson playing Carol Danvers
+  Tom Holland playing Peter Parker
+  Karen Gillan playing Nebula
+  Zoe Saldaña playing Gamora(as Zoe Saldana)
+  Evangeline Lilly playing Hope Van Dyne
+  Tessa Thompson playing Valkyrie
+  Rene Russo playing Frigga
+  Elizabeth Olsen playing Wanda Maximoff
+Directors: Anthony Russo, Joe Russo,
+Writers: Christopher Markus, Stephen McFeely, Stan Lee,
+Box Office:
+  Budget: $356,000,000 (estimated)
+  Gross US & Canada: $858,373,000
+  Opening weekend US & Canada: $357,115,007Apr 28, 2019
+  Gross worldwide: $2,799,439,100
+Rating: 8.4
+Popularity: 200
+
+================================== Ai Message ==================================
+
+The movie you are looking for is **Avengers: Endgame**.
+
+### Plot:
+After the devastating events of *Avengers: Infinity War (2018)*, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.
+
+### Main Cast:
+- **Robert Downey Jr.** as Tony Stark
+- **Chris Evans** as Steve Rogers
+- **Scarlett Johansson** as Natasha Romanoff
+
+### Additional Details:
+- **Directors**: Anthony Russo, Joe Russo
+- **Writers**: Christopher Markus, Stephen McFeely, Stan Lee
+- **Rating**: 8.4
+- **Budget**: $356 million (estimated)
+- **Gross Worldwide**: $2.8 billion
+
+For more information, you can check the movie [here](https://www.imdb.com/title/tt4154796/?ref_=fn_all_ttl_1).
