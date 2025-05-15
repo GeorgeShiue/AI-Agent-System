@@ -1,0 +1,14 @@
+Plan 1: Identify a movie based on actor and theme description, then retrieve related information
+1. Infer the most probable movie title based on the user’s input
+2. Search IMDb and compare the results to select the most relevant movie
+3. Retrieve detailed information about the selected movie
+
+Plan 2: Retrieve an actor’s recent movies and recommend the highest-rated one
+1. Retrieve IMDb search results for the specified actor
+2. Extract the actor’s recent films from their IMDb profile
+3. Select the highest-rated movie based on IMDb ratings and provide detailed information
+
+Plan 3: Search for movies with similar themes based on scene or keyword descriptions
+1. Convert the user’s description into a semantic vector and perform similarity-based search
+2. Verify whether the candidate movies meet additional criteria (e.g., actor, style)
+3. Present one or more recommended movies as the final response

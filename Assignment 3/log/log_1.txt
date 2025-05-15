@@ -1,0 +1,33 @@
+No plan found in the vector store.
+retriever
+ {'plan': None}
+
+Successfully saved the plan documents to the vector store.
+planner
+ {'plan': ['Identify the movie series that involves a robot pretending to be human and attempting to assassinate the main character.', 'Determine the second installment in that movie series.', 'Search for the second installment movie using the identified series name and verify the plot involves a robot pretending to be human and trying to assassinate the main character.', "Retrieve detailed information about the identified movie to confirm it matches the user's description."]}
+
+c:\Users\George\Desktop\大三下Program\AI Agent System\Assignment 3\tools.py:18: LangChainDeprecationWarning: The class `Chroma` was deprecated in LangChain 0.2.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-chroma package and should be used instead. To use it run `pip install -U :class:`~langchain-chroma` and import as `from :class:`~langchain_chroma import Chroma``.
+  vector_store = Chroma(
+Successfully retrieved the movie name 機械公敵 from the database.
+executor 
+ {'past_steps': [('Identify the movie series that involves a robot pretending to be human and attempting to assassinate the main character.', 'The movie series involving a robot pretending to be human and attempting to assassinate the main character is likely related to "機械公敵" (which translates to "Terminator" in English). Now I will proceed to step 2 to determine the second installment in that movie series.')]}
+
+replanner 
+ {'plan': ['Determine the second installment in the Terminator movie series.', 'Search for the second installment movie using the identified series name and verify the plot involves a robot pretending to be human and trying to assassinate the main character.', "Retrieve detailed information about the identified movie to confirm it matches the user's description."]}
+
+Successfully retrieved the movie name 魔鬼終結者2 from the database.
+executor 
+ {'past_steps': [('Determine the second installment in the Terminator movie series.', 'The second installment in the Terminator movie series is "Terminator 2." Now I will proceed to the next step and search for this movie to verify that it involves a robot pretending to be a human and trying to assassinate the main character.')]}
+
+replanner 
+ {'plan': ["Search for detailed information about 'Terminator 2' to confirm it matches the user's description of a robot pretending to be human and trying to assassinate the main character."]}
+
+
+DevTools listening on ws://127.0.0.1:52465/devtools/browser/850729cf-b00b-4919-8148-cc07db3877e7
+executor 
+ {'past_steps': [("Search for detailed information about 'Terminator 2' to confirm it matches the user's description of a robot pretending to be human and trying to assassinate the main character.", 'The movie "Terminator 2" (also known as 魔鬼終結者2) has the plot of a cyborg, identical to the one who failed to kill Sarah Connor, now having to protect her ten-year-old son John from an even more advanced and powerful cyborg. This fits the user\'s description of a robot pretending to be a human and trying to assassinate the main character. The movie is indeed the second installment in the Terminator series. \n\nIf you want, I can provide more detailed information or metadata about this movie.')]}
+
+replanner 
+ {'response': 'The movie you are looking for is "Terminator 2: Judgment Day," which is the second installment in the Terminator series. It features a robot (cyborg) that is involved in an assassination attempt on the main character, fitting your description.'}
+
+Final Response: The movie you are looking for is "Terminator 2: Judgment Day," which is the second installment in the Terminator series. It features a robot (cyborg) that is involved in an assassination attempt on the main character, fitting your description.

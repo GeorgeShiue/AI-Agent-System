@@ -1,0 +1,54 @@
+Please enter your query (or type 'exit' to quit): I am looking for a movie starring Keanu Reeves and the movie is about virtual reality.
+No plan found in the vector store.
+retriever
+ {'plan': None}
+
+Successfully saved the plan documents to the vector store.
+planner
+ {'plan': ['Identify the probable movie name based on the user query mentioning Keanu Reeves and virtual reality.', 'Search IMDb for movies starring Keanu Reeves related to virtual reality.', 'Select the most relevant movie from the search results based on plot and cast.', "Retrieve detailed information about the selected movie from IMDb to confirm it matches the user's description."]}        
+
+c:\Users\George\Desktop\大三下Program\AI Agent System\Assignment 3\tools.py:18: LangChainDeprecationWarning: The class `Chroma` was deprecated in LangChain 0.2.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-chroma package and should be used instead. To use it run `pip install -U :class:`~langchain-chroma` and import as `from :class:`~langchain_chroma import Chroma``.
+  vector_store = Chroma(
+Successfully retrieved the movie name 駭客任務 from the database.
+executor 
+ {'past_steps': [('Identify the probable movie name based on the user query mentioning Keanu Reeves and virtual reality.', 'The probable movie name based on your query mentioning Keanu Reeves and virtual reality is "The Matrix." Would you like me to search for movies related to this to find the most relevant one?')]}
+
+replanner 
+ {'plan': ['Search IMDb for movies starring Keanu Reeves related to virtual reality.', 'Select the most relevant movie from the search results based on plot and cast.', "Retrieve detailed information about the selected movie from IMDb to confirm it matches the user's description."]}
+
+Successfully retrieved the movie name 駭客任務 from the database.
+
+DevTools listening on ws://127.0.0.1:52918/devtools/browser/8918c4d0-afa8-4d2e-8c5d-5cd4e042451a
+executor 
+ {'past_steps': [('Search IMDb for movies starring Keanu Reeves related to virtual reality.', 'I have searched IMDb for movies starring Keanu Reeves related to virtual reality. The search results include:\n\n1. 駭客任務 (The Matrix) - Plot: When a computer hacker Neo discovers the truth about his life being an elaborate deception by an evil cyber-intelligence.\n2. 駭客任務：復活 (The Matrix Resurrections) - Plot: Two realities, everyday life and what lies behind it, where Mr. Anderson seeks to know if his reality is a construct.\n3. 駭客任務：重裝上陣 (The Matrix Reloaded) - Continues the fight against the Machine Army by freedom fighters Neo, Trinity, and Morpheus.\n4. 駭客任務完結篇：最後戰役 (The Matrix Revolutions) - The human city of Zion defends itself in a war with the machines while Neo fights against Agent Smith.\n\nShall I proceed to step 2 and select the most relevant movie based on plot and cast?')]}
+
+replanner 
+ {'plan': ['Select the most relevant movie from the search results based on plot and cast, focusing on the virtual reality theme.', "Retrieve detailed information about the selected movie from IMDb to confirm it matches the user's description."]}
+
+Successfully retrieved the movie name 駭客任務 from the database.
+
+DevTools listening on ws://127.0.0.1:52983/devtools/browser/9a648623-18e3-46ca-a99c-212f8b93cbc3
+executor 
+ {'past_steps': [('Select the most relevant movie from the search results based on plot and cast, focusing on the virtual reality theme.', 'The most relevant movie based on the plot and cast about virtual reality starring Keanu Reeves is "駭客任務" (The Matrix). It features Keanu Reeves as Neo and revolves around the theme of a virtual reality deception created by an evil cyber-intelligence. Would you like me to proceed to retrieve detailed information about this movie from IMDb to confirm it matches your description?')]}
+
+replanner 
+ {'response': 'The movie starring Keanu Reeves about virtual reality is "The Matrix." It features Keanu Reeves as Neo and centers on the theme of a virtual reality deception created by an evil cyber-intelligence.'}
+
+Final Response: The movie starring Keanu Reeves about virtual reality is "The Matrix." It features Keanu Reeves as Neo and centers on the theme of a virtual reality deception created by an evil cyber-intelligence.
+
+Please enter your query (or type 'exit' to quit): I am looking for a movie starring Keanu Reeves and the movie is about virtual reality.
+Successfully retrieved the plan from the vector store. Socre: 0.0
+retriever 
+ {'plan': ['Identify the probable movie name based on the user query mentioning Keanu Reeves and virtual reality.', 'Search IMDb for movies starring Keanu Reeves related to virtual reality.', 'Select the most relevant movie from the search results based on plot and cast.', "Retrieve detailed information about the selected movie from IMDb to confirm it matches the user's description."]}
+
+Successfully retrieved the movie name 駭客任務 from the database.
+executor 
+ {'past_steps': [('Identify the probable movie name based on the user query mentioning Keanu Reeves and virtual reality.', 'The probable movie name based on your query about a movie starring Keanu Reeves and involving virtual reality is "The Matrix" (Chinese title: 駭客任務). Would you like me to proceed with searching for more details about this movie?')]}
+
+replanner 
+ {'response': 'The movie you are looking for starring Keanu Reeves about virtual reality is "The Matrix." It features Keanu Reeves as Neo and revolves around the theme of a virtual reality deception created by an evil cyber-intelligence.'}
+
+Final Response: The movie you are looking for starring Keanu Reeves about virtual reality is "The Matrix." It features Keanu Reeves as Neo and revolves around the theme of a virtual reality deception created by an evil cyber-intelligence.
+
+Please enter your query (or type 'exit' to quit): exit
+Exiting...
